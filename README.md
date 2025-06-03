@@ -11,7 +11,7 @@
 
 - 💬 Ask me about **Frontend Development, Java, and Full Stack Projects**
 
-- 📫 How to reach me: **gowsikap@example.com**
+- 📫 How to reach me: **gowsika1508@gmail.com**
 
 - 🌐 Portfolio: [pkgowsika.netlify.app](https://678a5c9d8a8b8215181f7e5a--pkgowsika.netlify.app/)
 
