@@ -15,6 +15,14 @@
 
 - 🌐 Portfolio: [pkgowsika.netlify.app](https://678a5c9d8a8b8215181f7e5a--pkgowsika.netlify.app/)
 
+- ### 🔗 Connect with me:
+
+<p align="left">
+  <a href="https://www.linkedin.com/in/gowsika-p-k-bb6056276" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-blue?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+</p>
+
 ---
 
 ### 🛠️ Languages and Tools:
@@ -41,13 +49,25 @@
 
 ---
 
-### 🔗 Connect with me:
+### 🚀 Projects
 
-<p align="left">
-  <a href="https://www.linkedin.com/in/gowsika-p-k-bb6056276" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-blue?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" />
-  </a>
-</p>
+- 🔗 [Leetcode Java Solutions](https://github.com/Gowsika23/Leetcode)
+- 🔗 [Smart-City Project](https://github.com/Gowsika23/Smart-City)
+- 🔗 [Smart City Landing Page](https://github.com/Gowsika23/Smart-city-Landing-page)
+- 🔗 [OCTANET Internship Tasks](https://github.com/Gowsika23/OCTANET_JULY)
+
+---
+
+
 
 ### 🏆 GitHub Trophies
 [![trophy](https://github-profile-trophy.vercel.app/?username=gowsika26&theme=gruvbox)](https://github.com/ryo-ma/github-profile-trophy)
+
+<p align="center">
+  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="350" alt="coding girl gif"/>
+</p>
+
+---
+
+<p align="center">✨ “Keep Learning. Keep Building. Keep Growing.” ✨</p>
+
