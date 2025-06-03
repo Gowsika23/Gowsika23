@@ -17,9 +17,10 @@
 
 - ### 🔗 Connect with me:
 
-<p align="left">
+<p align="center">
   <a href="https://www.linkedin.com/in/gowsika-p-k-bb6056276" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-blue?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" />
+    <img src="https://img.shields.io/badge/💼 CONNECT%20WITH%20ME%20ON%20LINKEDIN-blue?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0A66C2" 
+         alt="linkedin" style="width:300px; height:auto;" />
   </a>
 </p>
 
@@ -62,6 +63,7 @@
 
 ### 🏆 GitHub Trophies
 [![trophy](https://github-profile-trophy.vercel.app/?username=gowsika26&theme=gruvbox)](https://github.com/ryo-ma/github-profile-trophy)
+
 
 <p align="center">
   <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="350" alt="coding girl gif"/>
