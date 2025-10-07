@@ -51,9 +51,9 @@
 ---
 
 ### 🚀 Projects
-- 🔗 [TrendyWay-ECommerce Site]([https://github.com/L-DMS-V1/Batch-3](https://github.com/Gowsika23/TrendWay-EcommerceSite.git))
+- 🔗 [TrendyWay-ECommerce Site](https://github.com/L-DMS-V1/Batch-3](https://github.com/Gowsika23/TrendWay-EcommerceSite.git))
 - 🔗 [Portfolio](https://github.com/Gowsika23/portfolio-website)
-- 🔗 [Bus Reservation System]([https://github.com/Gowsika23/Smart-City](https://github.com/Gowsika23/Bus-Reservation-System-JDBC.git))
+- 🔗 [Bus Reservation System](https://github.com/Gowsika23/Smart-City](https://github.com/Gowsika23/Bus-Reservation-System-JDBC.git))
 - 🔗 [Smart City Landing Page](https://github.com/Gowsika23/Smart-city-Landing-page)
 ---
 
