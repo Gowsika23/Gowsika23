@@ -51,12 +51,10 @@
 ---
 
 ### 🚀 Projects
-- 🔗 [LDMS Infosys SpringBoard Internship](https://github.com/L-DMS-V1/Batch-3)
+- 🔗 [TrendyWay-ECommerce Site]([https://github.com/L-DMS-V1/Batch-3](https://github.com/Gowsika23/TrendWay-EcommerceSite.git))
 - 🔗 [Portfolio](https://github.com/Gowsika23/portfolio-website)
-- 🔗 [Smart-City Project](https://github.com/Gowsika23/Smart-City)
+- 🔗 [Bus Reservation System]([https://github.com/Gowsika23/Smart-City](https://github.com/Gowsika23/Bus-Reservation-System-JDBC.git))
 - 🔗 [Smart City Landing Page](https://github.com/Gowsika23/Smart-city-Landing-page)
-- 🔗 [OCTANET Internship Tasks](https://github.com/Gowsika23/OCTANET_JULY)
-
 ---
 
 
